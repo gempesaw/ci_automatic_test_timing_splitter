@@ -1,6 +1,6 @@
 import SweetXml
 
-defmodule CiTestTimingSplitter do
+defmodule CiAutomaticTestTimingSplitter do
   def main(args \\ []) do
     args
     |> parse_args
