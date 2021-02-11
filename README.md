@@ -99,3 +99,7 @@ We implemented the [greedy number
 partitioning](https://en.wikipedia.org/wiki/Greedy_number_partitioning)
 algorithm in basically the worst time and space possible O(m *n), but it's
 still fast enough because our test suites aren't so big :D
+
+## cats?
+
+![build](images/jiji.webp)
