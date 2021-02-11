@@ -1,4 +1,4 @@
-# CI Automatic TestTiming Splitter
+# CI Automatic TestTiming Splitter ![build](https://github.com/gempesaw/ci_automatic_test_timing_splitter/workflows/CI/badge.svg)
 
 > _It is a truth universally acknowledged, that a developer in
 > possession of an overgrown test suite, must be in want of `cats`._
